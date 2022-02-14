@@ -1,6 +1,5 @@
-## Justine Stewart
-
 ### Check out some 360 content
+
 # Front of our house
 <iframe src="https://www.google.com/maps/embed?pb=!4v1644867130597!6m8!1m7!1sCAoSLEFGMVFpcE1URW40SG93TEtUTk00SklCVHVqaGVDQ0lydEJxMTZkVkdxcXBo!2m2!1d46.29338509999999!2d-114.1341945!3f200!4f-10!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
